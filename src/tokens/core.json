@@ -332,279 +332,279 @@
     },
     "radius": {
       "Soft": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "Round": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "full": {
-        "value": "624.938rem",
+        "value": "9999px",
         "type": "dimension"
       }
     },
     "size": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension"
       },
       "2": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "4": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "8": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "16": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "24": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       },
       "32": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension"
       },
       "40": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension"
       },
       "48": {
-        "value": "3rem",
+        "value": "48px",
         "type": "dimension"
       }
     },
     "border": {
       "small": {
-        "value": "0.031rem",
+        "value": "0.5px",
         "type": "dimension"
       },
       "base": {
-        "value": "0.062rem",
+        "value": "1px",
         "type": "dimension"
       },
       "bold": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "supper": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       }
     },
     "layout": {
       "container": {
-        "value": "80rem",
+        "value": "1280px",
         "type": "dimension"
       },
       "dialog": {
-        "value": "40rem",
+        "value": "640px",
         "type": "dimension"
       },
       "card": {
-        "value": "20rem",
+        "value": "320px",
         "type": "dimension"
       },
       "sidebar": {
-        "value": "15.625rem",
+        "value": "250px",
         "type": "dimension"
       },
       "form-label": {
-        "value": "7.5rem",
+        "value": "120px",
         "type": "dimension"
       }
     },
     "opacity": {
       "lv1": {
-        "value": "0.312rem",
+        "value": "5px",
         "type": "dimension"
       },
       "lv3": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension"
       },
       "lv4": {
-        "value": "3.75rem",
+        "value": "60px",
         "type": "dimension"
       },
       "lv5": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       },
       "lv2": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension"
       }
     },
     "effect": {
       "weak": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "medium": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "strong": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       }
     },
     "font": {
       "line-height": {
         "10": {
-          "value": "2.25rem",
+          "value": "36px",
           "type": "dimension"
         },
         "11": {
-          "value": "2.625rem",
+          "value": "42px",
           "type": "dimension"
         },
         "12": {
-          "value": "2.688rem",
+          "value": "43px",
           "type": "dimension"
         },
         "13": {
-          "value": "3rem",
+          "value": "48px",
           "type": "dimension"
         },
         "14": {
-          "value": "3.625rem",
+          "value": "58px",
           "type": "dimension"
         },
         "01": {
-          "value": "0.875rem",
+          "value": "14px",
           "type": "dimension"
         },
         "02": {
-          "value": "0.938rem",
+          "value": "15px",
           "type": "dimension"
         },
         "03": {
-          "value": "1.062rem",
+          "value": "17px",
           "type": "dimension"
         },
         "04": {
-          "value": "1.125rem",
+          "value": "18px",
           "type": "dimension"
         },
         "05": {
-          "value": "1.25rem",
+          "value": "20px",
           "type": "dimension"
         },
         "06": {
-          "value": "1.375rem",
+          "value": "22px",
           "type": "dimension"
         },
         "07": {
-          "value": "1.5rem",
+          "value": "24px",
           "type": "dimension"
         },
         "08": {
-          "value": "1.75rem",
+          "value": "28px",
           "type": "dimension"
         },
         "09": {
-          "value": "2.125rem",
+          "value": "34px",
           "type": "dimension"
         }
       },
       "letters-pacing": {
         "01": {
-          "value": "0rem",
+          "value": "0px",
           "type": "dimension"
         },
         "02": {
-          "value": "-0.009rem",
+          "value": "-0.15px",
           "type": "dimension"
         },
         "03": {
-          "value": "-0.016rem",
+          "value": "-0.25px",
           "type": "dimension"
         },
         "04": {
-          "value": "-0.019rem",
+          "value": "-0.3px",
           "type": "dimension"
         }
       },
       "paragraph-spacing": {
         "01": {
-          "value": "0.5rem",
+          "value": "8px",
           "type": "dimension"
         }
       },
       "font-size": {
         "caption": {
           "01": {
-            "value": "0.688rem",
+            "value": "11px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.75rem",
+            "value": "12px",
             "type": "dimension"
           }
         },
         "body": {
           "01": {
-            "value": "0.812rem",
+            "value": "13px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.875rem",
+            "value": "14px",
             "type": "dimension"
           },
           "03": {
-            "value": "0.938rem",
+            "value": "15px",
             "type": "dimension"
           }
         },
         "subheading": {
           "01": {
-            "value": "1rem",
+            "value": "16px",
             "type": "dimension"
           },
           "02": {
-            "value": "1.125rem",
+            "value": "18px",
             "type": "dimension"
           },
           "03": {
-            "value": "1.25rem",
+            "value": "20px",
             "type": "dimension"
           },
           "04": {
-            "value": "1.5rem",
+            "value": "24px",
             "type": "dimension"
           }
         },
         "heading": {
           "01": {
-            "value": "1.75rem",
+            "value": "28px",
             "type": "dimension"
           },
           "02": {
-            "value": "2rem",
+            "value": "32px",
             "type": "dimension"
           },
           "03": {
-            "value": "2.25rem",
+            "value": "36px",
             "type": "dimension"
           }
         },
         "display": {
           "01": {
-            "value": "2.5rem",
+            "value": "40px",
             "type": "dimension"
           },
           "02": {
-            "value": "3rem",
+            "value": "48px",
             "type": "dimension"
           }
         }
@@ -944,279 +944,279 @@
     },
     "radius": {
       "Soft": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "Round": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "full": {
-        "value": "624.938rem",
+        "value": "9999px",
         "type": "dimension"
       }
     },
     "size": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension"
       },
       "2": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "4": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "8": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "16": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "24": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       },
       "32": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension"
       },
       "40": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension"
       },
       "48": {
-        "value": "3rem",
+        "value": "48px",
         "type": "dimension"
       }
     },
     "border": {
       "small": {
-        "value": "0.031rem",
+        "value": "0.5px",
         "type": "dimension"
       },
       "base": {
-        "value": "0.062rem",
+        "value": "1px",
         "type": "dimension"
       },
       "bold": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "supper": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       }
     },
     "layout": {
       "container": {
-        "value": "80rem",
+        "value": "1280px",
         "type": "dimension"
       },
       "dialog": {
-        "value": "40rem",
+        "value": "640px",
         "type": "dimension"
       },
       "card": {
-        "value": "20rem",
+        "value": "320px",
         "type": "dimension"
       },
       "sidebar": {
-        "value": "15.625rem",
+        "value": "250px",
         "type": "dimension"
       },
       "form-label": {
-        "value": "7.5rem",
+        "value": "120px",
         "type": "dimension"
       }
     },
     "opacity": {
       "lv1": {
-        "value": "0.312rem",
+        "value": "5px",
         "type": "dimension"
       },
       "lv3": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension"
       },
       "lv4": {
-        "value": "3.75rem",
+        "value": "60px",
         "type": "dimension"
       },
       "lv5": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       },
       "lv2": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension"
       }
     },
     "effect": {
       "weak": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "medium": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "strong": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       }
     },
     "font": {
       "line-height": {
         "10": {
-          "value": "2.25rem",
+          "value": "36px",
           "type": "dimension"
         },
         "11": {
-          "value": "2.625rem",
+          "value": "42px",
           "type": "dimension"
         },
         "12": {
-          "value": "2.688rem",
+          "value": "43px",
           "type": "dimension"
         },
         "13": {
-          "value": "3rem",
+          "value": "48px",
           "type": "dimension"
         },
         "14": {
-          "value": "3.625rem",
+          "value": "58px",
           "type": "dimension"
         },
         "01": {
-          "value": "0.875rem",
+          "value": "14px",
           "type": "dimension"
         },
         "02": {
-          "value": "0.938rem",
+          "value": "15px",
           "type": "dimension"
         },
         "03": {
-          "value": "1.062rem",
+          "value": "17px",
           "type": "dimension"
         },
         "04": {
-          "value": "1.125rem",
+          "value": "18px",
           "type": "dimension"
         },
         "05": {
-          "value": "1.25rem",
+          "value": "20px",
           "type": "dimension"
         },
         "06": {
-          "value": "1.375rem",
+          "value": "22px",
           "type": "dimension"
         },
         "07": {
-          "value": "1.5rem",
+          "value": "24px",
           "type": "dimension"
         },
         "08": {
-          "value": "1.75rem",
+          "value": "28px",
           "type": "dimension"
         },
         "09": {
-          "value": "2.125rem",
+          "value": "34px",
           "type": "dimension"
         }
       },
       "letters-pacing": {
         "01": {
-          "value": "0rem",
+          "value": "0px",
           "type": "dimension"
         },
         "02": {
-          "value": "-0.009rem",
+          "value": "-0.15px",
           "type": "dimension"
         },
         "03": {
-          "value": "-0.016rem",
+          "value": "-0.25px",
           "type": "dimension"
         },
         "04": {
-          "value": "-0.019rem",
+          "value": "-0.3px",
           "type": "dimension"
         }
       },
       "paragraph-spacing": {
         "01": {
-          "value": "0.5rem",
+          "value": "8px",
           "type": "dimension"
         }
       },
       "font-size": {
         "caption": {
           "01": {
-            "value": "0.688rem",
+            "value": "11px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.75rem",
+            "value": "12px",
             "type": "dimension"
           }
         },
         "body": {
           "01": {
-            "value": "0.812rem",
+            "value": "13px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.875rem",
+            "value": "14px",
             "type": "dimension"
           },
           "03": {
-            "value": "0.938rem",
+            "value": "15px",
             "type": "dimension"
           }
         },
         "subheading": {
           "01": {
-            "value": "1rem",
+            "value": "16px",
             "type": "dimension"
           },
           "02": {
-            "value": "1.125rem",
+            "value": "18px",
             "type": "dimension"
           },
           "03": {
-            "value": "1.25rem",
+            "value": "20px",
             "type": "dimension"
           },
           "04": {
-            "value": "1.5rem",
+            "value": "24px",
             "type": "dimension"
           }
         },
         "heading": {
           "01": {
-            "value": "1.75rem",
+            "value": "28px",
             "type": "dimension"
           },
           "02": {
-            "value": "2rem",
+            "value": "32px",
             "type": "dimension"
           },
           "03": {
-            "value": "2.25rem",
+            "value": "36px",
             "type": "dimension"
           }
         },
         "display": {
           "01": {
-            "value": "2.5rem",
+            "value": "40px",
             "type": "dimension"
           },
           "02": {
-            "value": "3rem",
+            "value": "48px",
             "type": "dimension"
           }
         }
@@ -1556,279 +1556,279 @@
     },
     "radius": {
       "Soft": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "Round": {
-        "value": "0.812rem",
+        "value": "13px",
         "type": "dimension"
       },
       "full": {
-        "value": "624.938rem",
+        "value": "9999px",
         "type": "dimension"
       }
     },
     "size": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension"
       },
       "2": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "4": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "8": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "16": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "24": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       },
       "32": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension"
       },
       "40": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension"
       },
       "48": {
-        "value": "3rem",
+        "value": "48px",
         "type": "dimension"
       }
     },
     "border": {
       "small": {
-        "value": "0.031rem",
+        "value": "0.5px",
         "type": "dimension"
       },
       "base": {
-        "value": "0.062rem",
+        "value": "1px",
         "type": "dimension"
       },
       "bold": {
-        "value": "0.094rem",
+        "value": "1.5px",
         "type": "dimension"
       },
       "supper": {
-        "value": "0.188rem",
+        "value": "3px",
         "type": "dimension"
       }
     },
     "layout": {
       "container": {
-        "value": "75rem",
+        "value": "1200px",
         "type": "dimension"
       },
       "dialog": {
-        "value": "40rem",
+        "value": "640px",
         "type": "dimension"
       },
       "card": {
-        "value": "23.438rem",
+        "value": "375px",
         "type": "dimension"
       },
       "sidebar": {
-        "value": "15.625rem",
+        "value": "250px",
         "type": "dimension"
       },
       "form-label": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       }
     },
     "opacity": {
       "lv1": {
-        "value": "0.312rem",
+        "value": "5px",
         "type": "dimension"
       },
       "lv3": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension"
       },
       "lv4": {
-        "value": "3.75rem",
+        "value": "60px",
         "type": "dimension"
       },
       "lv5": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       },
       "lv2": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension"
       }
     },
     "effect": {
       "weak": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "medium": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "strong": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       }
     },
     "font": {
       "line-height": {
         "10": {
-          "value": "2.25rem",
+          "value": "36px",
           "type": "dimension"
         },
         "11": {
-          "value": "2.625rem",
+          "value": "42px",
           "type": "dimension"
         },
         "12": {
-          "value": "2.688rem",
+          "value": "43px",
           "type": "dimension"
         },
         "13": {
-          "value": "3rem",
+          "value": "48px",
           "type": "dimension"
         },
         "14": {
-          "value": "3.625rem",
+          "value": "58px",
           "type": "dimension"
         },
         "01": {
-          "value": "0.875rem",
+          "value": "14px",
           "type": "dimension"
         },
         "02": {
-          "value": "0.938rem",
+          "value": "15px",
           "type": "dimension"
         },
         "03": {
-          "value": "1.062rem",
+          "value": "17px",
           "type": "dimension"
         },
         "04": {
-          "value": "1.125rem",
+          "value": "18px",
           "type": "dimension"
         },
         "05": {
-          "value": "1.25rem",
+          "value": "20px",
           "type": "dimension"
         },
         "06": {
-          "value": "1.375rem",
+          "value": "22px",
           "type": "dimension"
         },
         "07": {
-          "value": "1.5rem",
+          "value": "24px",
           "type": "dimension"
         },
         "08": {
-          "value": "1.75rem",
+          "value": "28px",
           "type": "dimension"
         },
         "09": {
-          "value": "2.125rem",
+          "value": "34px",
           "type": "dimension"
         }
       },
       "letters-pacing": {
         "01": {
-          "value": "0rem",
+          "value": "0px",
           "type": "dimension"
         },
         "02": {
-          "value": "-0.009rem",
+          "value": "-0.15px",
           "type": "dimension"
         },
         "03": {
-          "value": "-0.016rem",
+          "value": "-0.25px",
           "type": "dimension"
         },
         "04": {
-          "value": "-0.019rem",
+          "value": "-0.3px",
           "type": "dimension"
         }
       },
       "paragraph-spacing": {
         "01": {
-          "value": "0.5rem",
+          "value": "8px",
           "type": "dimension"
         }
       },
       "font-size": {
         "caption": {
           "01": {
-            "value": "0.688rem",
+            "value": "11px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.75rem",
+            "value": "12px",
             "type": "dimension"
           }
         },
         "body": {
           "01": {
-            "value": "0.812rem",
+            "value": "13px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.875rem",
+            "value": "14px",
             "type": "dimension"
           },
           "03": {
-            "value": "0.938rem",
+            "value": "15px",
             "type": "dimension"
           }
         },
         "subheading": {
           "01": {
-            "value": "1rem",
+            "value": "16px",
             "type": "dimension"
           },
           "02": {
-            "value": "1.125rem",
+            "value": "18px",
             "type": "dimension"
           },
           "03": {
-            "value": "1.25rem",
+            "value": "20px",
             "type": "dimension"
           },
           "04": {
-            "value": "1.5rem",
+            "value": "24px",
             "type": "dimension"
           }
         },
         "heading": {
           "01": {
-            "value": "1.75rem",
+            "value": "28px",
             "type": "dimension"
           },
           "02": {
-            "value": "2rem",
+            "value": "32px",
             "type": "dimension"
           },
           "03": {
-            "value": "2.25rem",
+            "value": "36px",
             "type": "dimension"
           }
         },
         "display": {
           "01": {
-            "value": "2.5rem",
+            "value": "40px",
             "type": "dimension"
           },
           "02": {
-            "value": "3rem",
+            "value": "48px",
             "type": "dimension"
           }
         }
@@ -2168,279 +2168,279 @@
     },
     "radius": {
       "Soft": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension"
       },
       "Round": {
-        "value": "0.062rem",
+        "value": "1px",
         "type": "dimension"
       },
       "full": {
-        "value": "624.938rem",
+        "value": "9999px",
         "type": "dimension"
       }
     },
     "size": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension"
       },
       "2": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "4": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "8": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension"
       },
       "16": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "24": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension"
       },
       "32": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension"
       },
       "40": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension"
       },
       "48": {
-        "value": "3rem",
+        "value": "48px",
         "type": "dimension"
       }
     },
     "border": {
       "small": {
-        "value": "0.031rem",
+        "value": "0.5px",
         "type": "dimension"
       },
       "base": {
-        "value": "0.062rem",
+        "value": "1px",
         "type": "dimension"
       },
       "bold": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension"
       },
       "supper": {
-        "value": "0.188rem",
+        "value": "3px",
         "type": "dimension"
       }
     },
     "layout": {
       "container": {
-        "value": "75rem",
+        "value": "1200px",
         "type": "dimension"
       },
       "dialog": {
-        "value": "43.75rem",
+        "value": "700px",
         "type": "dimension"
       },
       "card": {
-        "value": "25rem",
+        "value": "400px",
         "type": "dimension"
       },
       "sidebar": {
-        "value": "15.625rem",
+        "value": "250px",
         "type": "dimension"
       },
       "form-label": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       }
     },
     "opacity": {
       "lv1": {
-        "value": "0.312rem",
+        "value": "5px",
         "type": "dimension"
       },
       "lv3": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension"
       },
       "lv4": {
-        "value": "3.75rem",
+        "value": "60px",
         "type": "dimension"
       },
       "lv5": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension"
       },
       "lv2": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension"
       }
     },
     "effect": {
       "weak": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension"
       },
       "medium": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension"
       },
       "strong": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension"
       }
     },
     "font": {
       "line-height": {
         "10": {
-          "value": "2.25rem",
+          "value": "36px",
           "type": "dimension"
         },
         "11": {
-          "value": "2.625rem",
+          "value": "42px",
           "type": "dimension"
         },
         "12": {
-          "value": "2.688rem",
+          "value": "43px",
           "type": "dimension"
         },
         "13": {
-          "value": "3rem",
+          "value": "48px",
           "type": "dimension"
         },
         "14": {
-          "value": "3.625rem",
+          "value": "58px",
           "type": "dimension"
         },
         "01": {
-          "value": "0.875rem",
+          "value": "14px",
           "type": "dimension"
         },
         "02": {
-          "value": "0.938rem",
+          "value": "15px",
           "type": "dimension"
         },
         "03": {
-          "value": "1.062rem",
+          "value": "17px",
           "type": "dimension"
         },
         "04": {
-          "value": "1.125rem",
+          "value": "18px",
           "type": "dimension"
         },
         "05": {
-          "value": "1.25rem",
+          "value": "20px",
           "type": "dimension"
         },
         "06": {
-          "value": "1.375rem",
+          "value": "22px",
           "type": "dimension"
         },
         "07": {
-          "value": "1.5rem",
+          "value": "24px",
           "type": "dimension"
         },
         "08": {
-          "value": "1.75rem",
+          "value": "28px",
           "type": "dimension"
         },
         "09": {
-          "value": "2.125rem",
+          "value": "34px",
           "type": "dimension"
         }
       },
       "letters-pacing": {
         "01": {
-          "value": "0rem",
+          "value": "0px",
           "type": "dimension"
         },
         "02": {
-          "value": "-0.009rem",
+          "value": "-0.15px",
           "type": "dimension"
         },
         "03": {
-          "value": "-0.016rem",
+          "value": "-0.25px",
           "type": "dimension"
         },
         "04": {
-          "value": "-0.019rem",
+          "value": "-0.3px",
           "type": "dimension"
         }
       },
       "paragraph-spacing": {
         "01": {
-          "value": "0.5rem",
+          "value": "8px",
           "type": "dimension"
         }
       },
       "font-size": {
         "caption": {
           "01": {
-            "value": "0.688rem",
+            "value": "11px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.75rem",
+            "value": "12px",
             "type": "dimension"
           }
         },
         "body": {
           "01": {
-            "value": "0.812rem",
+            "value": "13px",
             "type": "dimension"
           },
           "02": {
-            "value": "0.875rem",
+            "value": "14px",
             "type": "dimension"
           },
           "03": {
-            "value": "0.938rem",
+            "value": "15px",
             "type": "dimension"
           }
         },
         "subheading": {
           "01": {
-            "value": "1rem",
+            "value": "16px",
             "type": "dimension"
           },
           "02": {
-            "value": "1.125rem",
+            "value": "18px",
             "type": "dimension"
           },
           "03": {
-            "value": "1.25rem",
+            "value": "20px",
             "type": "dimension"
           },
           "04": {
-            "value": "1.5rem",
+            "value": "24px",
             "type": "dimension"
           }
         },
         "heading": {
           "01": {
-            "value": "1.75rem",
+            "value": "28px",
             "type": "dimension"
           },
           "02": {
-            "value": "2rem",
+            "value": "32px",
             "type": "dimension"
           },
           "03": {
-            "value": "2.25rem",
+            "value": "36px",
             "type": "dimension"
           }
         },
         "display": {
           "01": {
-            "value": "2.5rem",
+            "value": "40px",
             "type": "dimension"
           },
           "02": {
-            "value": "3rem",
+            "value": "48px",
             "type": "dimension"
           }
         }
