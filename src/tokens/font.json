@@ -1,0 +1,416 @@
+{
+  "字符串变量": {},
+  "字符串变量/Mode 1": {
+    "zntgc": {
+      "$type": "text",
+      "$value": "智能体广场"
+    },
+    "zjsy": {
+      "$type": "text",
+      "$value": "我的对话"
+    },
+    "lshh": {
+      "$type": "text",
+      "$value": "历史记录"
+    },
+    "glznt": {
+      "$type": "text",
+      "$value": "管理中心"
+    },
+    "fxyy": {
+      "$type": "text",
+      "$value": "发现智能体"
+    },
+    "fxmb": {
+      "$type": "text",
+      "$value": "发现模板"
+    },
+    "qb": {
+      "$type": "text",
+      "$value": "全部"
+    },
+    "gfznt": {
+      "$type": "text",
+      "$value": "官方智能体"
+    },
+    "tyy": {
+      "$type": "text",
+      "$value": "通用"
+    },
+    "qtyy": {
+      "$type": "text",
+      "$value": "自定义分组"
+    },
+    "ssznt": {
+      "$type": "text",
+      "$value": "搜索智能体"
+    },
+    "syx": {
+      "$type": "text",
+      "$value": "试运行"
+    },
+    "jxs": {
+      "$type": "text",
+      "$value": "创建同款"
+    },
+    "sslsjl": {
+      "$type": "text",
+      "$value": "搜索历史记录"
+    },
+    "glyy": {
+      "$type": "text",
+      "$value": "管理智能体"
+    },
+    "glmb": {
+      "$type": "text",
+      "$value": "管理模板"
+    },
+    "wcjd": {
+      "$type": "text",
+      "$value": "我创建的"
+    },
+    "dhznt": {
+      "$type": "text",
+      "$value": "对话智能体"
+    },
+    "bdznt": {
+      "$type": "text",
+      "$value": "表单智能体"
+    },
+    "sxls": {
+      "$type": "text",
+      "$value": "数字教师"
+    },
+    "xs": {
+      "$type": "text",
+      "$value": "学生"
+    },
+    "jzg": {
+      "$type": "text",
+      "$value": "教职工"
+    },
+    "qyyh": {
+      "$type": "text",
+      "$value": "区域用户"
+    },
+    "wfb": {
+      "$type": "text",
+      "$value": "未发布"
+    },
+    "cjznt": {
+      "$type": "text",
+      "$value": "创建智能体"
+    },
+    "cjdhznt": {
+      "$type": "text",
+      "$value": "创建对话智能体"
+    },
+    "cjbdznt": {
+      "$type": "text",
+      "$value": "创建表单智能体"
+    },
+    "cjsxls": {
+      "$type": "text",
+      "$value": "创建数字教师"
+    },
+    "fzgl": {
+      "$type": "text",
+      "$value": "分组管理"
+    },
+    "cjhnkfbz": {
+      "$type": "text",
+      "$value": "创建后您可发布至以下渠道"
+    },
+    "dhzntms": {
+      "$type": "text",
+      "$value": "自由对话,适用于开放问答"
+    },
+    "cjbdzntms": {
+      "$type": "text",
+      "$value": "结构化输入，更精准高效"
+    },
+    "cjsxlsms": {
+      "$type": "text",
+      "$value": "学科领域的知识服务角色。"
+    },
+    "mc": {
+      "$type": "text",
+      "$value": "名称"
+    },
+    "sd": {
+      "$type": "text",
+      "$value": "提示词"
+    },
+    "qsrzntmc": {
+      "$type": "text",
+      "$value": "请输入智能体名称"
+    },
+    "sdxj": {
+      "$type": "text",
+      "$value": "例：“你是一位耐心细致的辅导老师，善于通俗讲解复杂知识，乐于答疑解惑，并以专业、清晰、鼓励的语气让学习轻松高效。”"
+    },
+    "bj": {
+      "$type": "text",
+      "$value": "编辑"
+    },
+    "sc": {
+      "$type": "text",
+      "$value": "删除"
+    },
+    "ymbksks": {
+      "$type": "text",
+      "$value": "或以模板快速开始"
+    },
+    "ljcj": {
+      "$type": "text",
+      "$value": "立即创建"
+    },
+    "tg": {
+      "$type": "text",
+      "$value": "跳过"
+    },
+    "tjmb": {
+      "$type": "text",
+      "$value": "推荐模板"
+    },
+    "ssmb": {
+      "$type": "text",
+      "$value": "搜索模板"
+    },
+    "jlmsznt": {
+      "$type": "text",
+      "$value": "简略描述该智能体"
+    },
+    "jcsd": {
+      "$type": "text",
+      "$value": "基础设置"
+    },
+    "fz": {
+      "$type": "text",
+      "$value": "分组"
+    },
+    "jjj": {
+      "$type": "text",
+      "$value": "简介"
+    },
+    "qxz": {
+      "$type": "text",
+      "$value": "请选择"
+    },
+    "qsrjj": {
+      "$type": "text",
+      "$value": "请简单介绍该智能体，说明它的角色定位与主要功能"
+    },
+    "xzmx": {
+      "$type": "text",
+      "$value": "选择模型"
+    },
+    "dhmx": {
+      "$type": "text",
+      "$value": "核心模型"
+    },
+    "gnsz": {
+      "$type": "text",
+      "$value": "功能设置"
+    },
+    "yysz": {
+      "$type": "text",
+      "$value": "语音设置"
+    },
+    "yysru": {
+      "$type": "text",
+      "$value": "语音输入"
+    },
+    "yybf": {
+      "$type": "text",
+      "$value": "语音播放"
+    },
+    "stnl": {
+      "$type": "text",
+      "$value": "图片上传"
+    },
+    "ppjd": {
+      "$type": "text",
+      "$value": "知识相关性偏好"
+    },
+    "xlyx": {
+      "$type": "text",
+      "$value": "出结果更容易"
+    },
+    "jzyx": {
+      "$type": "text",
+      "$value": "出结果更精准"
+    },
+    "jh": {
+      "$type": "text",
+      "$value": "均衡"
+    },
+    "yttptsc": {
+      "$type": "text",
+      "$value": "你是一位专业的图像解析助手，能够根据用户提供的图片，准确描述其中的内容、元素和细节，并结合上下文回答与图片相关的问题，确保表达清晰、信息完整且易于理解。"
+    },
+    "mcpfw": {
+      "$type": "text",
+      "$value": "MCP服务"
+    },
+    "zsk": {
+      "$type": "text",
+      "$value": "知识库"
+    },
+    "yl": {
+      "$type": "text",
+      "$value": "预览"
+    },
+    "gnpz": {
+      "$type": "text",
+      "$value": "功能设置"
+    },
+    "pdfwjsbnl": {
+      "$type": "text",
+      "$value": "文件上传"
+    },
+    "kcwt": {
+      "$type": "text",
+      "$value": "开场问题"
+    },
+    "tjkcwt": {
+      "$type": "text",
+      "$value": "添加开场问题"
+    },
+    "kcb": {
+      "$type": "text",
+      "$value": "开场白"
+    },
+    "kcwazf": {
+      "$type": "text",
+      "$value": "您好！请告诉我您的问题，我会尽力为您提供帮助。"
+    },
+    "qsr": {
+      "$type": "text",
+      "$value": "请输入"
+    },
+    "qsrtsc": {
+      "$type": "text",
+      "$value": "请输入提示词，用于引导开场问题的思考过程，推荐按“目标 + 背景 + 重点”规范开场问题。"
+    },
+    "yyzwz": {
+      "$type": "text",
+      "$value": "语音转文字"
+    },
+    "mrzk": {
+      "$type": "text",
+      "$value": "默认展开"
+    },
+    "mrsq": {
+      "$type": "text",
+      "$value": "默认收起"
+    },
+    "zdbfyy": {
+      "$type": "text",
+      "$value": "朗读文本"
+    },
+    "zwgn": {
+      "$type": "text",
+      "$value": "追问功能"
+    },
+    "zydhk": {
+      "$type": "text",
+      "$value": "对话输入功能"
+    },
+    "dtkcbtsc": {
+      "$type": "text",
+      "$value": "请输入提示词，开场白根据提示词来结构化定制结果，例如：“先向用户友好问候 → 简要概述当前文件的核心内容与重点信息 → 总字数控制在约100字以内，语言精炼、易懂。”"
+    },
+    "yyy": {
+      "$type": "text",
+      "$value": "引用变量"
+    },
+    "aidtkcb": {
+      "$type": "text",
+      "$value": "AI动态开场白"
+    },
+    "gdkcb": {
+      "$type": "text",
+      "$value": "固定开场白"
+    },
+    "zntfzgl": {
+      "$type": "text",
+      "$value": "智能体分组管理"
+    },
+    "bdsz": {
+      "$type": "text",
+      "$value": "表单设置"
+    },
+    "xgx": {
+      "$type": "text",
+      "$value": "相关性"
+    },
+    "bc": {
+      "$type": "text",
+      "$value": "保存"
+    },
+    "qx": {
+      "$type": "text",
+      "$value": "取消"
+    },
+    "tj": {
+      "$type": "text",
+      "$value": "添加"
+    },
+    "wmmznt": {
+      "$type": "text",
+      "$value": "未命名智能体"
+    },
+    "pdfwj": {
+      "$type": "text",
+      "$value": "PDF文件"
+    },
+    "wordwj": {
+      "$type": "text",
+      "$value": "Word文件"
+    },
+    "csvwj": {
+      "$type": "text",
+      "$value": "CSV数据表"
+    },
+    "exl": {
+      "$type": "text",
+      "$value": "Excel表格"
+    },
+    "cxsc": {
+      "$type": "text",
+      "$value": "重新生成"
+    },
+    "dcgn": {
+      "$type": "text",
+      "$value": "导出PDF"
+    },
+    "bxznt": {
+      "$type": "text",
+      "$value": "本校智能体"
+    },
+    "jxznt": {
+      "$type": "text",
+      "$value": "教学类"
+    },
+    "tyl": {
+      "$type": "text",
+      "$value": "通用类"
+    },
+    "nrcl": {
+      "$type": "text",
+      "$value": "内容处理功能"
+    },
+    "swl": {
+      "$type": "text",
+      "$value": "思维链"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "字符串变量",
+      "字符串变量/Mode 1"
+    ]
+  }
+}
