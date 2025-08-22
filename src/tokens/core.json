@@ -346,6 +346,10 @@
       "extra small": {
         "$type": "dimension",
         "$value": "3px"
+      },
+      "large": {
+        "$type": "dimension",
+        "$value": "28px"
       }
     },
     "size": {
@@ -990,6 +994,10 @@
       "extra small": {
         "$type": "dimension",
         "$value": "0px"
+      },
+      "large": {
+        "$type": "dimension",
+        "$value": "28px"
       }
     },
     "size": {
@@ -1634,6 +1642,10 @@
       "extra small": {
         "$type": "dimension",
         "$value": "2px"
+      },
+      "large": {
+        "$type": "dimension",
+        "$value": "28px"
       }
     },
     "size": {
@@ -2278,6 +2290,10 @@
       "extra small": {
         "$type": "dimension",
         "$value": "3px"
+      },
+      "large": {
+        "$type": "dimension",
+        "$value": "28px"
       }
     },
     "size": {
