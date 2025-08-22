@@ -404,6 +404,66 @@
     "swl": {
       "$type": "text",
       "$value": "思维链"
+    },
+    "ntpz": {
+      "$type": "text",
+      "$value": "小力脑图配置"
+    },
+    "bgpz": {
+      "$type": "text",
+      "$value": "报告解读配置"
+    },
+    "wjhqms": {
+      "$type": "text",
+      "$value": "文件获取模式"
+    },
+    "bzhq": {
+      "$type": "text",
+      "$value": "标准获取"
+    },
+    "sshqm": {
+      "$type": "text",
+      "$value": "实时获取 (慢)"
+    },
+    "ntpztsc": {
+      "$type": "text",
+      "$value": "根据用户提供的主题，生成一个结构化的脑图。请确保仅使用markmap格式，不包括任何额外的解释或提示语。允许任意层级的发展，以详尽地展现主题的不同方面和深度。"
+    },
+    "ntpzts": {
+      "$type": "text",
+      "$value": "例：“根据用户提供的主题，生成一个结构化的脑图。请确保仅使用markmap格式，不包括任何额外的解释或提示语。允许任意层级的发展，以详尽地展现主题的不同方面和深度。”"
+    },
+    "xljtp": {
+      "$type": "text",
+      "$value": "小力讲题配置"
+    },
+    "jtbz": {
+      "$type": "text",
+      "$value": "解题步骤"
+    },
+    "hfgxhcz": {
+      "$type": "text",
+      "$value": "回复个性化操作"
+    },
+    "tzzjz": {
+      "$type": "text",
+      "$value": "挑战自己做"
+    },
+    "kstsc": {
+      "$type": "text",
+      "$value": "开始提示词"
+    },
+    "hfgxh1": {
+      "$type": "text",
+      "$value": "回复个性化操作-1"
+    },
+    "hfgxh2": {
+      "$type": "text",
+      "$value": "回复个性化操作-2"
+    },
+    "tytscy": {
+      "$type": "text",
+      "$value": "请输入提示词，用于辅助和规范当前操作对应的产出结果，使内容更易读可控"
     }
   },
   "$themes": [],
