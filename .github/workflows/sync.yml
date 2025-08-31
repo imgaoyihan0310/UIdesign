@@ -1,0 +1,45 @@
+name: Sync to Bitbucket
+on:
+  push:
+    paths:
+      - 'src/tokens/**.json'
+  workflow_dispatch:  
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: clone repo
+        env: 
+          BITBUCKET_REPO: ${{ secrets.BITBUCKET_REPO }}
+          BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
+          BITBUCKET_PWD: ${{ secrets.BITBUCKET_PWD }}
+        run: |
+          rm -rf bitbucket-sync
+          git clone https://${BITBUCKET_USER}:${BITBUCKET_PWD}@${BITBUCKET_REPO} bitbucket-sync
+          cd bitbucket-sync
+          git checkout master
+      - name: Copy files
+        run: |
+          rm -rf bitbucket-sync/src/tokens
+          mkdir -p bitbucket-sync/src
+          cp -r src/tokens bitbucket-sync/src/tokens
+      - name: Sync to Bitbucket
+        env: 
+          BITBUCKET_USER: ${{ secrets.BITBUCKET_USER }}
+          BITBUCKET_MAIL: ${{ secrets.BITBUCKET_MAIL }}
+        run: |
+          cd bitbucket-sync
+          git config --global user.name ${BITBUCKET_USER}
+          git config --global user.email ${BITBUCKET_MAIL}
+          git checkout master
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "feat: sync from GitHub: $(git log -1 --pretty=format:%H) at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push origin master -q
+            echo "Successfully synced to Bitbucket"
+          else
+            echo "No changes to sync"
+          fi

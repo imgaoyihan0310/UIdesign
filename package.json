@@ -6,6 +6,8 @@
     "build": "node ./sd.config.js"
   },
   "devDependencies": {
-    "style-dictionary": "^5.0.0"
+    "core-js": "^3.43.0",
+    "style-dictionary": "^5.0.0",
+    "web-streams-polyfill": "^4.1.0"
   }
 }
