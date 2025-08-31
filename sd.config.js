@@ -55,6 +55,8 @@ function transUnitToPx(value, unit) {
         return value * BASE_FONTSIZE;
     } else if (unit === 'rpx') {
         return value * BASE_SCREEN_SIZE / 750;
+    } else if (unit === '') {
+        return value * 100;
     }
 }
 
@@ -75,8 +77,28 @@ function transUnit(sourceValue, targetUnit) {
     } else if (targetUnit === 'rpx') {
         // px->rpx
         return `${pxValue * 750 / BASE_SCREEN_SIZE}${targetUnit}`;
+    } else if (targetUnit === '') {
+        return pxValue / 100;
     }
 }
+// 透明度转成纯数字
+StyleDictionary.registerTransform({
+    name: 'opacity/toNumber',
+    type: 'value',
+    filter: function (token) {
+        // 匹配属性名包含 'opacity' 的属性
+        return token.name.includes('opacity');
+    },
+    transform: function (token) {
+        let value = token.$value;
+        // 如果是字符串，尝试提取数字
+        if (typeof value === 'string') {
+            return transUnit(value, '')
+        }
+        // 如果已经是数字则直接返回
+        return value;
+    }
+});
 
 StyleDictionary.registerFormat({
     name: 'css/variables-px',
@@ -155,6 +177,7 @@ async function buildFile(key) {
         platforms: {
             css: {
                 // 参见https://styledictionary.com/reference/hooks/transform-groups/predefined/
+                transforms: ['opacity/toNumber'],
                 transformGroup: "css",
                 // 输出目录
                 buildPath: path.resolve(TARGET_DIR, name),
