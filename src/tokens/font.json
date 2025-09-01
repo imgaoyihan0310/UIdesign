@@ -476,6 +476,14 @@
     "gfmb": {
       "$type": "text",
       "$value": "官方模板"
+    },
+    "bqymb": {
+      "$type": "text",
+      "$value": "本区域模板"
+    },
+    "bqyznt": {
+      "$type": "text",
+      "$value": "本区域智能体"
     }
   },
   "$themes": [],
