@@ -484,6 +484,74 @@
     "bqyznt": {
       "$type": "text",
       "$value": "本区域智能体"
+    },
+    "xq": {
+      "$type": "text",
+      "$value": "详情"
+    },
+    "zntlx": {
+      "$type": "text",
+      "$value": "智能体类型"
+    },
+    "gs": {
+      "$type": "text",
+      "$value": "归属"
+    },
+    "fbr": {
+      "$type": "text",
+      "$value": "发布人"
+    },
+    "fbsj": {
+      "$type": "text",
+      "$value": "发布时间"
+    },
+    "yyl": {
+      "$type": "text",
+      "$value": "引用量"
+    },
+    "fb": {
+      "$type": "text",
+      "$value": "发布"
+    },
+    "kzt": {
+      "$type": "text",
+      "$value": "控制台"
+    },
+    "fbzbxzntz": {
+      "$type": "text",
+      "$value": "发布至本校智能体中"
+    },
+    "fbzfwlj": {
+      "$type": "text",
+      "$value": "发布至访问链接"
+    },
+    "fbzjsdgzt": {
+      "$type": "text",
+      "$value": "发布至教师端工作台"
+    },
+    "fbzxsdkzt": {
+      "$type": "text",
+      "$value": "发布至学生端端工作台"
+    },
+    "pz": {
+      "$type": "text",
+      "$value": "配置"
+    },
+    "mcpfwgl": {
+      "$type": "text",
+      "$value": "MCP服务管理"
+    },
+    "rksz": {
+      "$type": "text",
+      "$value": "入口设置"
+    },
+    "gfmcpfw": {
+      "$type": "text",
+      "$value": "官方MCP服务"
+    },
+    "bxmcpfw": {
+      "$type": "text",
+      "$value": "本校MCP服务"
     }
   },
   "$themes": [],
