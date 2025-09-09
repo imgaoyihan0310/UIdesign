@@ -552,6 +552,58 @@
     "bxmcpfw": {
       "$type": "text",
       "$value": "本校MCP服务"
+    },
+    "ssmx": {
+      "$type": "text",
+      "$value": "搜索模型"
+    },
+    "qdgn": {
+      "$type": "text",
+      "$value": "确定"
+    },
+    "xzmxing": {
+      "$type": "text",
+      "$value": "选择模型"
+    },
+    "tjzsk": {
+      "$type": "text",
+      "$value": "添加知识库"
+    },
+    "bqymcp": {
+      "$type": "text",
+      "$value": "本区域MCP服务"
+    },
+    "ssmcpfw": {
+      "$type": "text",
+      "$value": "搜索MCP服务"
+    },
+    "qgl": {
+      "$type": "text",
+      "$value": "去管理"
+    },
+    "qrsc": {
+      "$type": "text",
+      "$value": "确认删除"
+    },
+    "fbzbqyznt": {
+      "$type": "text",
+      "$value": "发布至本区域智能体中"
+    },
+    "fbzgfzntz": {
+      "$type": "text",
+      "$value": "发布至官方智能体中"
+    },
+    "fbzbxmbk": {
+      "$type": "text",
+      "$value": "发布至本校模板库"
+    },
+    "fbzgfmbk": {
+      "$type": "text",
+      "$value": "发布至官方模板库"
+    },
+    "fbzbqymbk": {
+      "$type": "text",
+      "$value": "发布至本区域模板库"
     }
   },
   "$themes": [],
