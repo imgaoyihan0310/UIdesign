@@ -435,7 +435,7 @@
     },
     "xljtp": {
       "$type": "text",
-      "$value": "小力讲题配置"
+      "$value": "讲题模型配置"
     },
     "jtbz": {
       "$type": "text",
@@ -604,6 +604,38 @@
     "fbzbqymbk": {
       "$type": "text",
       "$value": "发布至本区域模板库"
+    },
+    "jtbzdtb": {
+      "$type": "text",
+      "$value": "解题步骤的头部文字"
+    },
+    "ydyjtdtb": {
+      "$type": "text",
+      "$value": "一对一讲题的头部文字"
+    },
+    "jtjm": {
+      "$type": "text",
+      "$value": "讲题界面"
+    },
+    "sppztp": {
+      "$type": "text",
+      "$value": "首屏拍照图片"
+    },
+    "jtrxtp": {
+      "$type": "text",
+      "$value": "讲题人像图片"
+    },
+    "jttbtb": {
+      "$type": "text",
+      "$value": "讲题头部图标"
+    },
+    "djxwhltwb": {
+      "$type": "text",
+      "$value": "哪里不明白，点击“小问号”来提问吧～"
+    },
+    "nnlsqfnzjtzzt": {
+      "$type": "text",
+      "$value": "南南老师启发你自己挑战做题吧～"
     }
   },
   "$themes": [],
