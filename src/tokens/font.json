@@ -640,7 +640,11 @@
     },
     "nnlsqfnzjtzzt": {
       "$type": "text",
-      "$value": "南南老师启发你自己挑战做题吧～"
+      "$value": "现在开始由我来启发你自己挑战做题吧～"
+    },
+    "zntmbfzgl": {
+      "$type": "text",
+      "$value": "智能体模板分组管理"
     }
   },
   "$themes": [],
