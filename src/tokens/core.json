@@ -344,16 +344,12 @@
         "$value": "9999px"
       },
       "extra small": {
-        "$type": "number",
-        "$value": 3
+        "$type": "dimension",
+        "$value": "2px"
       },
       "large": {
         "$type": "dimension",
         "$value": "28px"
-      },
-      "extra-small": {
-        "$type": "dimension",
-        "$value": "2px"
       },
       "small": {
         "$type": "dimension",
@@ -1024,16 +1020,12 @@
         "$value": "9999px"
       },
       "extra small": {
-        "$type": "number",
-        "$value": 0
+        "$type": "dimension",
+        "$value": "0px"
       },
       "large": {
         "$type": "dimension",
         "$value": "28px"
-      },
-      "extra-small": {
-        "$type": "dimension",
-        "$value": "0px"
       },
       "small": {
         "$type": "dimension",
@@ -1704,16 +1696,12 @@
         "$value": "9999px"
       },
       "extra small": {
-        "$type": "number",
-        "$value": 2
+        "$type": "dimension",
+        "$value": "2px"
       },
       "large": {
         "$type": "dimension",
         "$value": "28px"
-      },
-      "extra-small": {
-        "$type": "dimension",
-        "$value": "2px"
       },
       "small": {
         "$type": "dimension",
@@ -2371,6 +2359,14 @@
       }
     },
     "radius": {
+      "extra small": {
+        "$type": "dimension",
+        "$value": "2px"
+      },
+      "small": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
       "soft": {
         "$type": "dimension",
         "$value": "8px"
@@ -2383,21 +2379,9 @@
         "$type": "dimension",
         "$value": "9999px"
       },
-      "extra small": {
-        "$type": "number",
-        "$value": 3
-      },
       "large": {
         "$type": "dimension",
         "$value": "28px"
-      },
-      "extra-small": {
-        "$type": "dimension",
-        "$value": "2px"
-      },
-      "small": {
-        "$type": "dimension",
-        "$value": "6px"
       },
       "medium": {
         "$type": "dimension",
